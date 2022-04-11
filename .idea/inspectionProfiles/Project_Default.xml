@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main._name_" />
+          <option value="main.fcOptimisation" />
+          <option value="lab3.random" />
+          <option value="RealChromosome.random" />
+          <option value="Lab5AIV2.Ant.last_node" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

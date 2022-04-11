@@ -1,0 +1,6 @@
+1;matei;1
+2;cosmin;2
+3;andrei;3
+7;cosmin;5
+4;florin;8
+5;raul;3
